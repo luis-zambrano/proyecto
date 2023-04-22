@@ -1,0 +1,48 @@
+body{
+  background: url(fondo.jpeg);
+
+}
+
+.container {
+  max-width: 400px;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  text-align: center;
+}
+
+
+
+h1 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+label {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+input[type="text"] {
+  font-size: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+input[type="submit"] {
+  font-size: 20px;
+  padding: 10px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+a {
+  font-size: 20px;
+  color: #4CAF50;
+}
